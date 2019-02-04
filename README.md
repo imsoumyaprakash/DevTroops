@@ -1,1 +1,1 @@
-# Product Discovery and Collaboration Platform
+# DevTroops - Product Discovery and Collaboration Platform
